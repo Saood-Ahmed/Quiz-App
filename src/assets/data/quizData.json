@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "id": 2,
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote 'Harry Potter' series?",
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": 5,
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O"
+  }
+]
